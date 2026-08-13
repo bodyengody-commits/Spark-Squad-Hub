@@ -11,7 +11,7 @@ export function Footer() {
           <span className="text-sm text-slate-500 font-mono">SIGNAL COVERAGE HUB</span>
         </div>
         <p className="text-xs text-slate-600 font-mono">
-          Phase 2 — Live Simulator + Real Project Integration
+          Phase 3 — Complete Research Experience
         </p>
       </div>
     </footer>

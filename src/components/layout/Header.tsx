@@ -3,9 +3,12 @@ import { Radio, Menu, X } from 'lucide-react'
 
 const navLinks = [
   { label: 'Overview', href: '#overview' },
+  { label: 'Journey', href: '#journey' },
   { label: 'Simulation', href: '#simulation' },
   { label: 'Real Project', href: '#real-project' },
-  { label: 'Comparison', href: '#comparison' },
+  { label: 'Results', href: '#results' },
+  { label: 'Academy', href: '#academy' },
+  { label: 'Report', href: '#report' },
   { label: 'Team', href: '#team' },
 ]
 
